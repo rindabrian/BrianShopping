@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Brian Shopping</string>
+    <string name="login">Ingia</string>
+    <string name="signup">Jiandikishe</string>
+    <string name="username">Jina La Mtumiaji Au Barua Pepe</string>
+    <string name="Password">Nywila</string>
+    <string name="accept">Kubali Shheria Na Masharti</string>
+    <string name="welcome">Karibu Kwa Brian Shopping</string>
+    <string name="createac">Tengeneza Akaunti</string>
+</resources>

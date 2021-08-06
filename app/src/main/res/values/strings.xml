@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Brian Shopping</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username Or Email</string>
+    <string name="Password">Password</string>
+    <string name="accept">I accept the terms and conditions</string>
+    <string name="welcome">Welcome To Brian Shopping</string>
+    <string name="createac">Create Account</string>
+</resources>
